@@ -1,7 +1,7 @@
 def create_an_empty_array
   []
 end
-
+["paul" , "cool" , "tacos" , "full blown"]
 def create_an_array
   
 end
